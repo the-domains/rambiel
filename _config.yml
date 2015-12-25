@@ -1,7 +1,7 @@
 name: RamBiel
 favicon: null
 layout_spectrum: 0.7683181460015476
-typography_spectrum: 0.5611170779448003
+typography_spectrum: 0.01173
 title: Viskas bus gerai
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#3B28CC'
   brandStrength: 0.4037505271844566
   lightness: 0.8355943413916975
-  saturation: 0.7855575832072645
+  saturation: 0.625
   rhythmicContrast: 0.6425557981710881
 purpose: []
