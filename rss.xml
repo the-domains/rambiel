@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RamBiel]]></title>
         <description><![CDATA[RamBiel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rambiel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 17:38:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Dec 2015 17:43:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rambiel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[„Fenix“]]></title>
+            <description><![CDATA[<article><h1>„Fenix“</h1><h2>Pirmoji Kalėdų diena (gruodžio 25 d., penktadienis)</h2><p>Kiekvienais metais Kalėdų metu Alytuje pagausėja renginių „meniu“. 2015-aisiais – ji kone ypatingas tiek pasiūla ir įvairove, tiek skirtingomis veiksmo vietomis, o ir artistų, atlikėjų svoriu. Pirmąją Kalėdų dieną kviečia Dzūkijos sostinės klubai ir barai, antrąją jungiasi arena ir kiti oficialieji kultūros centrai.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8196ecad3133b6ac00c87ec4f59fdd903912f606.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rambiel/fenix/index.html</link>
+            <guid isPermaLink="false">5c176b80-11c3-4b5c-ab60-826fa2ad4394</guid>
+            <pubDate>Fri, 25 Dec 2015 17:43:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f47bdf6c-693b-4a9c-982f-79e4816c9c9e.jpg">]]></description>
-            <link>undefined12ef4814-d3a0-416b-89bb-80da19d4f839/index.html</link>
+            <link>https://thegrid.ai/rambiel/12ef4814-d3a0-416b-89bb-80da19d4f839/index.html</link>
             <guid isPermaLink="false">12ef4814-d3a0-416b-89bb-80da19d4f839</guid>
             <pubDate>Fri, 25 Dec 2015 17:38:25 GMT</pubDate>
         </item>
